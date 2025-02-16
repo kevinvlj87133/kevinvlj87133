@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm kevinvlj87133
 
-<!--
-**kevinvlj87133/kevinvlj87133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏓 🎾 Dedicated to mastering technical writing 🏓 🎾
 
-Here are some ideas to get you started:
+## About Me
+🎳 🏊 🏓 🎽 A programmer in agile methodology 🎳 🏊 🏓 🎽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏒 🚣 Working on back-end development 🏒 🚣
+
+### Fun Facts
+🎾 🛼 📚 🎧 A nerd in project management 🎾 🛼 📚 🎧
+
+---
+🏸 🥋 🛼 🎳 🎸 Thanks for visiting my profile! 🏒 🚣 🎣 🏸 🏑
